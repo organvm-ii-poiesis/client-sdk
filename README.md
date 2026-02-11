@@ -1,5 +1,13 @@
 # Client SDK
 
+[![CI](https://github.com/organvm-ii-poiesis/client-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/organvm-ii-poiesis/client-sdk/actions/workflows/ci.yml)
+[![Coverage](https://img.shields.io/badge/coverage-pending-lightgrey)](https://github.com/organvm-ii-poiesis/client-sdk)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/organvm-ii-poiesis/client-sdk/blob/main/LICENSE)
+[![Organ II](https://img.shields.io/badge/Organ-II%20Poiesis-EC4899)](https://github.com/organvm-ii-poiesis)
+[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/organvm-ii-poiesis/client-sdk)
+[![TypeScript](https://img.shields.io/badge/lang-TypeScript-informational)](https://github.com/organvm-ii-poiesis/client-sdk)
+
+
 [![ORGAN-II: Poiesis](https://img.shields.io/badge/ORGAN--II-Poiesis-6a1b9a?style=flat-square)](https://github.com/organvm-ii-poiesis)
 [![Status: Scaffolding](https://img.shields.io/badge/status-scaffolding-yellow?style=flat-square)](#roadmap)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](#license)
