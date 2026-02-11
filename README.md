@@ -293,7 +293,7 @@ process.on('SIGINT', async () => {
 
 ## Theory Implemented from ORGAN-I
 
-Client SDK is not merely an engineering artifact — it implements theoretical principles developed in [ORGAN-I (Theoria)](https://github.com/organvm-i-theoria), specifically from the [recursive-engine](https://github.com/organvm-i-theoria/recursive-engine) repository:
+Client SDK is not merely an engineering artifact — it implements theoretical principles developed in [ORGAN-I (Theoria)](https://github.com/organvm-i-theoria), specifically from the [recursive-engine](https://github.com/organvm-i-theoria/recursive-engine--generative-entity) repository:
 
 ### Recursive Observation
 
