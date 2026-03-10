@@ -1,0 +1,7 @@
+schema_version: '1.0'
+repo: client-sdk
+organ: II
+display_name: WebSocket client library for audience vote submission in Omni-Dromenon-Engine
+delivery:
+- platform: web_app
+  status: not_started
